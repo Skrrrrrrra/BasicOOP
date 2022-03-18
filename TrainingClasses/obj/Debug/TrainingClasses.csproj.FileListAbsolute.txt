@@ -1,0 +1,8 @@
+Z:\c#\xaml\TrainingClasses\bin\Debug\TrainingClasses.exe.config
+Z:\c#\xaml\TrainingClasses\bin\Debug\TrainingClasses.exe
+Z:\c#\xaml\TrainingClasses\bin\Debug\TrainingClasses.pdb
+Z:\c#\xaml\TrainingClasses\obj\Debug\TrainingClasses.csproj.AssemblyReference.cache
+Z:\c#\xaml\TrainingClasses\obj\Debug\TrainingClasses.csproj.SuggestedBindingRedirects.cache
+Z:\c#\xaml\TrainingClasses\obj\Debug\TrainingClasses.csproj.CoreCompileInputs.cache
+Z:\c#\xaml\TrainingClasses\obj\Debug\TrainingClasses.exe
+Z:\c#\xaml\TrainingClasses\obj\Debug\TrainingClasses.pdb
